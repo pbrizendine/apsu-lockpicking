@@ -1,6 +1,6 @@
 # APSU Lockpicking Prototype
 
-A standalone browser lockpicking minigame developed as a feature prototype for [APSU Roleplay](https://github.com/pbrizendine/apsu-roleplay), a browser-based roleplaying platform.
+A standalone browser lockpicking minigame developed as a feature prototype for [APSU Roleplay](https://github.com/pbrizendine/apsu), a browser-based roleplaying platform.
 
 This repository preserves the original single-file prototype, rather than the later integrated APSU implementation. HTML, CSS, and JavaScript are contained in `index.html`. No installation, account is required. 
 
